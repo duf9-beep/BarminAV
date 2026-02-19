@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">mobile</string>
-    <string-array name="access_levels">
-        <item>Пользователь</item>
-        <item>Менеджер</item>
-        <item>Администратор</item>
-    </string-array>
-</resources>
